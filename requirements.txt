@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+yt-dlp>=2023.1.6
+plyer>=2.1.0
+cryptography>=41.0.0
