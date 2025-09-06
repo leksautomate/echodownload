@@ -1,6 +1,7 @@
 # # EchoDownload: Multi-Platform Video Downloader
 
 EchoDownload is a user-friendly desktop application for downloading videos and audio from popular platforms, built with Python and PyQt6. It uses the powerful `yt-dlp` library to handle downloads, with support for multiple formats, quality options, clipboard integration, and convenient file organization.
+![EchoDownload Icon](icon.png)
 
 ## Features
 
@@ -78,4 +79,5 @@ Specify your license here (e.g., MIT, GPL, etc.)
 ---
 
 **Maintainer:** [leksautomate](https://github.com/leksautomate)
+
 
